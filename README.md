@@ -1,4 +1,4 @@
-Please see description.pdf for initial considerations, challenges, and solution/method description etc.
+Please see description.pdf for commentary on initial considerations, challenges, and solution/method description etc.
 
 Technical Specification.pdf has the API documentation
 
@@ -9,3 +9,4 @@ Technical Specification.pdf has the API documentation
 
 Endpoint: http://localhost:8081/api/
 
+I had a lot of fun experimenting with mulesoft over the last few days, I've definitely learned a great deal in such a short time across this task. Thank you for the opportunity.
