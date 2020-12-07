@@ -9,4 +9,4 @@ Technical Specification.pdf has the API documentation
 
 Endpoint: http://localhost:8081/api/
 
-I had a lot of fun experimenting with mulesoft over the last few days, I've definitely learned a great deal in such a short time across this task. Thank you for the opportunity.
+I had a lot of fun experimenting with mulesoft over the last few days, and I've definitely learned a great deal through working across this task. Thank you for the opportunity.
