@@ -15,4 +15,3 @@ GET: Weather: http://localhost:8081/api/weather/Australia/Melbourne
 
 GET: Cities: http://localhost:8081/api/cities/Australia
 
-I had a lot of fun experimenting with mulesoft over the last few days, and I've definitely learned a great deal through working across this task. Thank you for the opportunity.
